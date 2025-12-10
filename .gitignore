@@ -41,10 +41,10 @@ ENV/
 *~
 
 # Checkpoints and results
-checkpoints/
+archive
 *.json
 !requirements.txt
-
+!checkpoints
 # Models and data (большие файлы)
 # archive/images/train/
 # archive/images/val/
